@@ -7,3 +7,7 @@ infracost
 infracost_atlantis_diff.sh
 repos.yaml
 .terraform.d/
+.codex-repo-context.json
+.env
+*.tfstate
+*.tfstate.*
